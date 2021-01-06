@@ -1,3 +1,5 @@
+(Copy the batch file in c drive to acces the program through command prompt)
+
 This is a command-line-interface "todo" program.
 The functionalities of the program include:
 help   #to list out commands available
