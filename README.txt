@@ -1,4 +1,4 @@
-(Copy the batch file in c drive to access the program through command prompt)
+(Copy the batch file along with the python file in c drive to access the program through command prompt)
 
 This is a command-line-interface "todo" program.
 The functionalities of the program include:
