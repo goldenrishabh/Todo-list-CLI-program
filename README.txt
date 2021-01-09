@@ -9,10 +9,10 @@ ls     #to list out remaining tasks
 
 
 #FOR WINDOWS :
-(Copy the batch file along with the python file in c drive to access the program through command prompt)
+(Copy the batch file (todo.bat) along with the python file in c drive to access the program through command prompt)
 
 #FOR LINUX :
-(copy the given file with no extension (or .sh) in a paricular directory along with .py file)
+(copy the given file (todo) with no extension (or .sh) in a paricular directory along with .py file)
 On terminal at the saved path type:
 
 ./todo -help ...
