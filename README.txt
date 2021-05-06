@@ -34,4 +34,4 @@ todo -del 3                #task 3 in list is deleted
 todo -done 2               #task 2 is marked done and shifted to done.txt 
 todo -report               #will give a report for completed and pending tasks
 
-(For linuxits ./todo and not todo)
+(For linux its ./todo and not todo)
